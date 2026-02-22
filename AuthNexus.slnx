@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/AuthNexus.Application/">
+    <Project Path="src/AuthNexus.Application/AuthNexus.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/AuthNexus.ApplicationContract/">
+    <Project Path="src/AuthNexus.ApplicationContract/AuthNexus.ApplicationContract.csproj" />
+  </Folder>
+  <Folder Name="/src/AuthNexus.Domain/">
+    <Project Path="src/AuthNexus.Domain/AuthNexus.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/AuthNexus.EntityFrameworkCore/">
+    <Project Path="src/AuthNexus.EntityFrameworkCore/AuthNexus.EntityFrameworkCore.csproj" />
+  </Folder>
+  <Folder Name="/src/AuthNexus.Host/">
+    <Project Path="src/AuthNexus.Host/AuthNexus.Host.csproj" />
+  </Folder>
+</Solution>

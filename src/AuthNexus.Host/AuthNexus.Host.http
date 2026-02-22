@@ -1,0 +1,6 @@
+@AuthNexus.Host_HostAddress = http://localhost:5257
+
+GET {{AuthNexus.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
